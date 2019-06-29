@@ -1,0 +1,113 @@
+.bg{
+    background-color: rgb(106, 197, 228);
+}
+.ogiua{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 75px;
+    background-color: white;
+    margin: 15px
+}
+.chinh{
+    margin-left: 50px;
+}
+.cach{
+    display: flex;
+    justify-content: space-around;
+}
+.flex{
+    display: flex;
+}
+.booknow{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Merriweather', serif;
+}
+.xuong{
+    margin-top: 40px;
+}
+.carousel{
+    font-family: 'Lobster', cursive;
+    size: 50px;
+}
+.slogan{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-family: 'Fredoka One', cursive;
+}
+#img{
+    margin: 20px;
+    margin-left: 20px;
+}
+.navbar-letter{
+    font-family: 'Lato', sans-serif;
+}
+.edit{
+    background-color: black;
+    background-size: auto;
+    position: absolute;
+    right: 40%;
+    left: 40%;
+    bottom: 20px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.medias{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+.thu2{
+    margin-top: 20px;
+}
+.butn{
+    background-color: white;
+}
+.tour{
+    margin-left: 20px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .50rem;
+}
+.card-imgs{
+    width: 100%;
+    border-radius: calc(.25rem - 1px);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.fonttour{
+    font-family: 'Palanquin Dark', sans-serif;
+}
+.comment{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.topcomment{
+    font-family: 'Luckiest Guy', cursive;
+}
+.contain{
+    background-color: #f3f3f3;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.tong{
+    margin-left: 480px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+}
+.len{
+    margin-bottom: -2px;
+}

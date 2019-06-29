@@ -1,0 +1,283 @@
+.bg{
+    background-color: rgb(106, 197, 228);
+}
+.ogiua{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 75px;
+    background-color: white;
+    margin: 15px
+}
+.chinh{
+    margin-left: 50px;
+}
+.cach{
+    display: flex;
+    justify-content: space-around;
+}
+.flex{
+    display: flex;
+}
+.booknow{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Merriweather', serif;
+}
+.xuong{
+    margin-top: 40px;
+}
+.carousel{
+    font-family: 'Lobster', cursive;
+    size: 50px;
+}
+.slogan{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-family: 'Fredoka One', cursive;
+}
+#img{
+    margin: 20px;
+    margin-left: 20px;
+}
+.navbar-letter{
+    font-family: 'Lato', sans-serif;
+}
+.edit{
+    background-color: black;
+    background-size: auto;
+    position: absolute;
+    right: 40%;
+    left: 40%;
+    bottom: 20px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.medias{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+.thu2{
+    margin-top: 20px;
+}
+.butn{
+    background-color: white;
+}
+.tour{
+    margin-left: 20px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .50rem;
+}
+.card-imgs{
+    width: 100%;
+    border-radius: calc(.25rem - 1px);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.fonttour{
+    font-family: 'Palanquin Dark', sans-serif;
+}
+#imgg{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.sizex{
+    font-size: 75px;
+}    
+#imggg{
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 500px;
+    background-image: url(http://static.asiawebdirect.com/m/bangkok/portals/vietnam/homepage/hue/pagePropertiesImage/hue-city.jpg);
+    background-size: contain;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+#middle{
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: rgb(106, 197, 228);
+    width: 300px;
+}
+#middl{
+    margin-left:  80px;
+    margin-top: 40px;
+    background-color: darkolivegreen;
+    width: 600px;
+}
+.xnxx{
+    background-size: cover;
+}
+.top{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 40px;
+    background-color: white;
+    margin: 15px
+}
+.doanvan{
+    font-family: 'Varela Round', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.anhhoguom{
+    margin-left: 250px;
+}
+#kkk{
+    margin-left: 100px;
+}.bg{
+    background-color: rgb(106, 197, 228);
+}
+.ogiua{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 75px;
+    background-color: white;
+    margin: 15px
+}
+.chinh{
+    margin-left: 50px;
+}
+.cach{
+    display: flex;
+    justify-content: space-around;
+}
+.flex{
+    display: flex;
+}
+.booknow{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Merriweather', serif;
+}
+.xuong{
+    margin-top: 40px;
+}
+.carousel{
+    font-family: 'Lobster', cursive;
+    size: 50px;
+}
+.slogan{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-family: 'Fredoka One', cursive;
+}
+#img{
+    margin: 20px;
+    margin-left: 20px;
+}
+.navbar-letter{
+    font-family: 'Lato', sans-serif;
+}
+.edit{
+    background-color: black;
+    background-size: auto;
+    position: absolute;
+    right: 40%;
+    left: 40%;
+    bottom: 20px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.medias{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+.thu2{
+    margin-top: 20px;
+}
+.butn{
+    background-color: white;
+}
+.tour{
+    margin-left: 20px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .50rem;
+}
+.card-imgs{
+    width: 100%;
+    border-radius: calc(.25rem - 1px);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.fonttour{
+    font-family: 'Palanquin Dark', sans-serif;
+}
+#imgg{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.sizex{
+    font-size: 75px;
+}    
+#imggg{
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 500px;
+    background-image: url(http://static.asiawebdirect.com/m/.imaging/1140x760/website/bangkok/portals/vietnam/homepage/hanoi/2days-hanoi/pagePropertiesImage.jp);
+    background-size: contain;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+#middle{
+    margin-left: 150px;
+    margin-top: 40px;
+    background-color: rgb(106, 197, 228);
+    width: 300px;
+}
+#middl{
+    margin-left:  80px;
+    margin-top: 40px;
+    background-color: darkolivegreen;
+    width: 600px;
+}
+.xnxx{
+    background-size: cover;
+}
+.top{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 40px;
+    background-color: white;
+    margin: 15px
+}
+.doanvan{
+    font-family: 'Varela Round', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.anhhoguom{
+    margin-left: 250px;
+}
+#kkk{
+    margin-left: 100px;
+}

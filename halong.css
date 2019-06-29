@@ -1,0 +1,168 @@
+.bg{
+    background-color: rgb(106, 197, 228);
+}
+.ogiua{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 75px;
+    background-color: white;
+    margin: 15px
+}
+.chinh{
+    margin-left: 50px;
+}
+.cach{
+    display: flex;
+    justify-content: space-around;
+}
+.flex{
+    display: flex;
+}
+.booknow{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Merriweather', serif;
+}
+.xuong{
+    margin-top: 40px;
+}
+.carousel{
+    font-family: 'Lobster', cursive;
+    size: 50px;
+}
+.slogan{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-family: 'Fredoka One', cursive;
+}
+#img{
+    margin: 20px;
+    margin-left: 20px;
+}
+.navbar-letter{
+    font-family: 'Lato', sans-serif;
+}
+.edit{
+    background-color: black;
+    background-size: auto;
+    position: absolute;
+    right: 40%;
+    left: 40%;
+    bottom: 20px;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.medias{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+.thu2{
+    margin-top: 20px;
+}
+.butn{
+    background-color: white;
+}
+.tour{
+    margin-left: 20px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .50rem;
+}
+.card-imgs{
+    width: 100%;
+    border-radius: calc(.25rem - 1px);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.fonttour{
+    font-family: 'Palanquin Dark', sans-serif;
+}
+#imgg{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.sizex{
+    font-size: 75px;
+}    
+#imggg{
+    height: 600px;
+    background-image: url(https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_809,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/n2t3cwgfhrnxlnd77rhb/TourThamQuanV%E1%BB%8BnhH%E1%BA%A1Long.jpg);
+    background-size: cover;
+    margin-top: 20px;
+
+}
+#middle{
+    margin-left: 350px;
+    margin-right: 280px;
+    background-color: rgb(106, 197, 228);
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    color : white;
+    padding: 8px;
+}
+#middl{
+    background-color: rgba(0,0,0,0.5);
+    margin-left:  350px;
+    margin-right: 280px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+
+}
+.xnxx{
+    background-size: cover;
+}
+.top{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 33px;
+    background-color: white;
+    margin: 15px
+}
+.doanvan{
+    margin-top: 10px;
+    font-family: 'Varela Round', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+}
+.anhcho{
+    background-size: cover;
+    margin-left: 130px;
+}
+#kkk{
+    margin-left: 100px;
+}
+.cachtren{
+    margin-top: 20px;
+}
+.price{
+    display: flex;
+    color: black;
+    justify-content: center;
+    font-size: 40px;
+    font-family: 'Bungee Inline', cursive;
+    margin : 20px;
+}
+.ragiua{
+    margin-left: 580px;
+    margin-bottom: 20px;
+}
+.luivao{
+    margin-left: 220px;
+    font-family: 'Fredoka One', cursive;
+}
