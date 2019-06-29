@@ -153,3 +153,22 @@
     margin-left: 580px;
     margin-bottom: 20px;
 }
+.contain{
+    background-color: #f3f3f3;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.tong{
+    margin-left: 480px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+}
+.len{
+    margin-bottom: -2px;
+}
+.ytmid{
+    margin-left: 300px;
+    margin-bottom: 20px;
+}

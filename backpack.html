@@ -27,18 +27,16 @@
 <body>    
     <div id="divtong">
         <img src="bpck.png" class="icon" alt="">    
-        <form class="xuong">
+        <div class="xuong" >
             <div class="dangnhap">
                 <h1> Log in</h1>
-                <input class="form-control dcip" placeholder="Username">
+                <input class="form-control dcip" placeholder="Username" id="username" required> 
             </div>
             <div class="dangnhap">
-                <input type="password" class="form-control dcip" placeholder="Password">
+                <input type="password" class="form-control dcip" placeholder="Password" id="password" required>
             </div>
-            <a href="file:///C:/techkids/backpack/trangchu.html?#">
-                <button type="submit" class="m-auto ragiua btn">Log in</button>
-            </a>
-        </form>
+                <button onclick="show_data()" class="m-auto ragiua btn">Log in</button>
+        </div>
     </div>
     <a href="https://vi-vn.facebook.com/login/">
         <img src="rsz_1facebook.png" class="picturesize" alt="">  
@@ -47,5 +45,6 @@
         <img src="rsz_1rsz_1rsz_3rsz_1google.png" class="picturesize" alt="">
     </a>   
 </body>
+<script src="backpack.js"></script>
 
 </html>
