@@ -111,3 +111,21 @@
 .len{
     margin-bottom: -2px;
 }
+.background{
+    margin-top: 20px;
+    background-color: #f3f3f3;
+    padding-top: 20px;
+}
+.chia{
+    flex: 0 0 50%;
+    max-width: 40%;
+}
+.lechvao{
+    margin-left: 250px;
+}
+.padding-bottom{
+    padding-bottom: 40px;
+}
+.xuongti{
+    margin-bottom : 5px;
+}
